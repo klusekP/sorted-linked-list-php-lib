@@ -63,7 +63,7 @@ composer check
 
 ### Continuous Integration
 
-This project uses GitHub Actions for continuous integration. The CI pipeline runs on PHP 8.1, 8.2, and 8.3 and includes:
+This project uses GitHub Actions for continuous integration. The CI pipeline runs on PHP 8.3 and includes:
 
 - Code style checks (ECS)
 - Static analysis (PHPStan level 9)
